@@ -1,4 +1,4 @@
-# Problem Statement — Pricing & Discount Optimization using NSGA-II
+# Problem Statement — A Pareto-Based Multi-Objective Framework for Price–Discount Optimization in Multi-Product Retail Systems
 
 ## 1. Overview
 
