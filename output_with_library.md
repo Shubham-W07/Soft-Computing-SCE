@@ -1,5 +1,3 @@
-# Comparison of Optimization Results
-
 This file compares the initial state with the final state optimized using the **Pymoo library**.
 
 ## Initial Products
@@ -35,3 +33,4 @@ This file compares the initial state with the final state optimized using the **
 | P8           |  125.45 |       0.00 |          400 |     50,165.40 |          14.00 |         0.11 |
 
 **Total Overall Profit:** ₹ 127,426.01
+
