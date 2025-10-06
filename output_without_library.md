@@ -1,4 +1,4 @@
-This file compares the initial state with the final state optimized using the ** Without Pymoo library **.
+This file compares the initial state with the final state optimized using the **Without Pymoo library**.
 
 # Initial Products
 
@@ -33,4 +33,5 @@ This file compares the initial state with the final state optimized using the **
 | P8           |  119.60 |       0.14 |          400 |     41,105.47 |       6,733.72 |        56.30 |
 
 **Total Overall Profit:** ₹ 102,321.03
+
 
